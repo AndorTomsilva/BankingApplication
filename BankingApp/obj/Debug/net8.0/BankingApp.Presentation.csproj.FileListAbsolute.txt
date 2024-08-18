@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\bin\Debug\net8.0\BankingApp.Presentation.exe
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\bin\Debug\net8.0\BankingApp.Presentation.deps.json
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\bin\Debug\net8.0\BankingApp.Presentation.runtimeconfig.json
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\bin\Debug\net8.0\BankingApp.Presentation.dll
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\bin\Debug\net8.0\BankingApp.Presentation.pdb
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.AssemblyInfo.cs
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.sourcelink.json
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.dll
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\refint\BankingApp.Presentation.dll
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.pdb
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\BankingApp.Presentation.genruntimeconfig.cache
+C:\Users\USER\Desktop\AugustAssignment\BankingApplication\BankingApp\obj\Debug\net8.0\ref\BankingApp.Presentation.dll
